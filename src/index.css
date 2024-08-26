@@ -1,0 +1,83 @@
+body {
+  margin: 0; /* Remove default margin */
+  height: 100vh; /* Full viewport height */
+  font-family: Arial, sans-serif; /* Classic font choice */
+  background-color: #d7e0a2; /* Fallback color */
+  background-image: url('./images/3d-view-books.jpg'); /* Corrected path to your background image */
+  background-size: cover; /* Cover the entire background */
+  background-repeat: no-repeat; /* Prevent image from repeating */
+  background-position: center; /* Center the background image */
+}
+
+h1 {
+  text-align: center;
+  background-color: #053e1c; /* Darker color for contrast */
+  color: #ffffff; /* White text for readability */
+  padding: 20px; /* Slightly less padding */
+  margin: 0; /* Resetting margin */
+}
+
+.container {
+  width: 80%; /* Responsive width */
+  max-width: 600px; /* Max width for larger screens */
+  min-height: 100px;
+  margin: 20px auto; /* Centered with margin */
+  background-color: #679c88; /* White background */
+  opacity: 80%;
+  box-shadow: 0px 2px 10px rgba(13, 6, 6, 0.934); /* Softer shadow */
+  padding: 20px; /* Consistent padding */
+  border-radius: 35px; /* Rounded corners for a softer look */
+}
+
+.datas {
+  margin-left: 0; /* Resetting margin */
+}
+
+.searchBar {
+  display: flex;
+  justify-content: center; /* Center items */
+  margin-bottom: 20px; /* Space below the search bar */
+}
+
+.searchBar input {
+  flex: 1; /* Flexible input width */
+  padding: 10px; /* Slightly less padding */
+  font-size: 18px; /* More classic font size */
+  border: 1px solid #ccc; /* Classic border */
+  border-radius: 4px; /* Rounded corners */
+  background-color: #eeeeee; /* Light grey background */
+}
+
+.searchBar button {
+  padding: 10px 15px; /* Padding for button */
+  background-color: #008c8c; /* More classic button color */
+  color: #f3f0f0; /* White text */
+  font-size: 18px; /* Consistent font size */
+  border: none; /* No border */
+  border-radius: 4px; /* Rounded corners */
+  cursor: pointer; /* Pointer on hover */
+}
+
+.searchBar button:hover {
+  background-color: #007373; /* Darker on hover */
+}
+
+.datas a {
+  display: block; /* Block links for full width */
+  padding: 10px; /* Consistent padding */
+  background-color: #013131; /* Slightly different shade */
+  color: #fdf9f9; /* White text */
+  text-decoration: none; /* Remove underline */
+  font-size: 18px; /* Consistent font size */
+  margin-top: 10px; /* Space between links */
+  border-radius: 4px; /* Rounded corners */
+}
+
+.datas a:hover {
+  background-color: #012929; /* Darker on hover */
+}
+
+.datas p {
+  font-size: 18px; /* Consistent font size */
+  line-height: 1.6; /* Better readability */
+}
