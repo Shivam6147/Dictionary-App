@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/github.io/Dictionary-App/static/css/main.1831afb0.css",
-    "main.js": "/github.io/Dictionary-App/static/js/main.8de19337.js",
-    "static/js/453.ed3810f9.chunk.js": "/github.io/Dictionary-App/static/js/453.ed3810f9.chunk.js",
-    "static/media/3d-view-books.jpg": "/github.io/Dictionary-App/static/media/3d-view-books.b18be1e1dbba0b37a2cc.jpg",
-    "static/media/logo.svg": "/github.io/Dictionary-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/github.io/Dictionary-App/index.html",
-    "main.1831afb0.css.map": "/github.io/Dictionary-App/static/css/main.1831afb0.css.map",
-    "main.8de19337.js.map": "/github.io/Dictionary-App/static/js/main.8de19337.js.map",
-    "453.ed3810f9.chunk.js.map": "/github.io/Dictionary-App/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Dictionary-App/static/css/main.060f8667.css",
+    "main.js": "/Dictionary-App/static/js/main.687b7a8b.js",
+    "static/js/453.ed3810f9.chunk.js": "/Dictionary-App/static/js/453.ed3810f9.chunk.js",
+    "static/media/3d-view-books.jpg": "/Dictionary-App/static/media/3d-view-books.b18be1e1dbba0b37a2cc.jpg",
+    "static/media/logo.svg": "/Dictionary-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Dictionary-App/index.html",
+    "main.060f8667.css.map": "/Dictionary-App/static/css/main.060f8667.css.map",
+    "main.687b7a8b.js.map": "/Dictionary-App/static/js/main.687b7a8b.js.map",
+    "453.ed3810f9.chunk.js.map": "/Dictionary-App/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1831afb0.css",
-    "static/js/main.8de19337.js"
+    "static/css/main.060f8667.css",
+    "static/js/main.687b7a8b.js"
   ]
 }
